@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">N1</string>
+
+    <string-array name="nomes_array">
+        <item>André</item>
+        <item>João</item>
+        <item>Maria</item>
+        <item>Isaak</item>
+        <item>Israel</item>
+        <item>Alyne</item>
+        <item>Alice</item>
+        <item>Pedro</item>
+        <item>Pereira</item>
+        <item>Gysele</item>
+        <item>Lucas</item>
+        <item>Luan</item>
+        ...
+    </string-array>
+    <string name="title_activity_main">Main</string>
+</resources>
